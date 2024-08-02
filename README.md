@@ -1,4 +1,6 @@
-# Important Details about this Project 
+# README to Know About the Numerical Tic Tac Toe Graphical User Interface GUI Game
+
+## Important Details about this Project 
 
 I created a Graphical User Interface GUI Game called Numerical_Tic_Tac_Toe in Python 3 using Python's built-in toolkit called Tkinter. The purpose of this program is to 
 motivate users, in other words, players of the game by testing their mathematical skills in a game of Numerical_Tic_Tac_Toe where the first player whether it 
@@ -12,9 +14,25 @@ Computer Player wins the game along with how much time it took for them to win t
 set of squares on the Graphical User Interface GUI Board sums up to 15 when the player is player 1 who inputs an odd number, then player 1 or the computer player will 
 win the game. Again, the diagonal, horizontal row, or vertical column will be highlighted in blue along with the Window Box message stating that Player 1 wins the game.  
 
-# Instructions to Download `Numerical_Tic_Tac_Toe_GUI.py3` from GitHub and then Run the `Numerical_Tic_Tac_Toe_GUI.py3` from GitHub to the Command Prompt in Python:
+## Instructions to Download `Numerical_Tic_Tac_Toe_GUI.py3` from GitHub and then Run the `Numerical_Tic_Tac_Toe_GUI.py3` from GitHub to the Command Prompt in Python:
 1. Click on the "<>Code" Green Bar to the very right of the master branch on GitHub and then click on where it says, "Download ZIP".
 2. To Extract the File, click "Extract All" -> "Extract". 
 3. Go to the File Path where the Python 3 File, that is the .py3 File, is located on your "C:\" Drive or if on default, go to "C:\User\<PC User Name>\Downloads     \Numerical_Tic_Tac_Toe_Graphical_User_Interface_GUI_Game_Project".
 4. Go to your Operating System's Command Prompt and type the command "cd C:\User\<PC User Name>\....\Numerical_Tic_Tac_Toe_Graphical_User_Interface_GUI_Game_Project".
-5. In the Command Prompt, type the command `python Numerical_Tic_Tac_Toe_GUI.py3` and then press Enter to execute the command. 
+5. In the Command Prompt, type the command `python Numerical_Tic_Tac_Toe_GUI.py3` and then press Enter to execute the command.
+
+## Program Output Screenshots for `Numerical_Tic_Tac_Toe_GUI.py3`: 
+
+![Alt text](Screenshots/Instruction%20Window%20Screenshot%20for%20Numerical_Tic_Tac_Toe_Game_GUI.py3%20File%20Part%201.png)
+
+![Alt text](Screenshots/Screenshot%20for%20Numerical_Tic_Tac_Toe_GUI.py3%20File%20Part%202.png)
+
+![Alt text](Screenshots/Screenshot%20for%20Numerical_Tic_Tac_Toe_GUI.py3%20File%20Part%203.png)
+
+![Alt text](Screenshots/Screenshot%20for%20Numerical_Tic_Tac_Toe_GUI.py3%20File%20Part%204.png)
+
+![Alt text](Screenshots/Screenshot%20for%20Numerical_Tic_Tac_Toe_GUI.py3%20File%20Part%205.png)
+
+![Alt text](Screenshots/Screenshot%20for%20Numerical_Tic_Tac_Toe_GUI.py3%20File%20Part%206.png)
+
+![Alt text](Screenshots/Screenshot%20for%20Numerical_Tic_Tac_Toe_GUI.py3%20File%20Part%207.png)
